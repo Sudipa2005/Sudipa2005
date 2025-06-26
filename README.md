@@ -26,12 +26,13 @@
 
 
 
-<br />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipa2005&label=Profile%20views&color=469dd2&style=plastic" alt="sudipa2005" /> </p>
-<p> 
-</p>
 
-
+<p/>  </p>
+<br />
+<br />
+<br />
 <!--Connect with me-->       
 <h2 align="center">Connect with me</h2> 
 <p align="center">
