@@ -5,7 +5,7 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sυԃιρα! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sudipa! 
 *A web developer from India. I am pursuing B.Tech. in CSE(AIML) at UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA*
 <br /> 
 <!--Night Owl image-->
@@ -15,12 +15,12 @@
 
 
 <!--Start Intro-->               
-<p align="left">I'm a Full Stack Developer with a deep love for Python, Java, Html5+CSS. </p>
+<p align="left">I'm a Data Analytics with a deep love for Python, Java, Html, CSS. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 📫 How to reach me **sudee14@gmail.com**
+- 📫 How to reach me **sudiee14@gmail.com**
 - 💬 Ask me about **python**
 <!--End Intro-->
 
