@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/Sudipa2005/Sudipa2005/main/girl_coding.gif" width="600">
 </p>
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sudipa! 
-*A web developer from India. I am pursuing B.Tech. in CSE(AIML) at UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA*
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sudipa! 
+*A Data Analytics from India. I am pursuing B.Tech. in CSE(AIML) at UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA*
 <br /> 
 <!--Night Owl image-->
 <div>
