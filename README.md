@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500">
+  <img src="https://raw.githubusercontent.com/Sudipa2005/Sudipa2005/main/girl_coding.gif" width="600">
 </p>
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sudipa! 
 *A web developer from India. I am pursuing B.Tech. in CSE(AIML) at UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA*
@@ -32,44 +31,38 @@
 <br />
 <br />
 <!--Connect with me-->       
+    
 <h2 align="center">Connect with me</h2> 
 <p align="center">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/ http://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/ http://www.linkedin.com/in/" height="30" width="40" /></a>
-<a href="https://instagram.com/its-sudiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_sudiee" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/sudipamondal" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipamondal" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/its_sudiee" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_sudiee" height="30" width="40" />
+</a>
+
+</p>
 <br />
-<br />
+
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,react,git,github,figma,kali,kubernetes,redhat,nodejs,postgres,vscode,docker,postman,linux,bash,aws,googlecloud,cloudflare&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,react,git,github,figma,kali,nodejs,vscode,linux,bash,aws,googlecloud&perline=10"  />
 </p>
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sudipa2005">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudipa2005&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sudipa2005">
-          <img align="center" src="https://streak-stats.demolab.com?user=sudipa2005&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛʀᴇᴀᴋ 📊</h2>
+
+<p align="center">
+  <a href="https://github.com/sudipa2005">
+    <img align="center" src="https://streak-stats.demolab.com?user=sudipa2005&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+  </a>
+</p>
 <!--   <tr> -->
 <!--     <td width="50%"> -->
 <!--       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
