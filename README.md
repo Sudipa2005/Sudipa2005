@@ -2,19 +2,17 @@
   <img src="https://raw.githubusercontent.com/Sudipa2005/Sudipa2005/main/girl_coding.gif" width="600">
 </p>
 <!--Header Name-->
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sudipa! 
-*A Data Analytics from India. I am pursuing B.Tech. in CSE(AIML) at UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA*
+<h1>
+  I'm Sudipa! 🌸✨
+</h1>
+A 3rd year Computer Science Student from India. I am pursuing B.Tech. in CSE(AIML) at UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA.
 <br /> 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="350" src="https://images.hive.blog/p/MG5aEqKFcQi6ksuzVh6JJptBJCL6eFwx2gvRnpcRhTRKgmTKc5WMfwDxhnh4QBSbpJ1YqtBdsJvfhRK341dfdoNZFUrejrU2y?format=match&mode=fit">
-</div>
 
 
 <!--Start Intro-->               
 <p align="left">I'm a Data Analytics with a deep love for Python, Java, Html, CSS. </p>
 
-- ✨ Student of life :)
+- ✨ Student :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
 - 📫 How to reach me **sudiee14@gmail.com**
@@ -50,7 +48,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,react,git,github,figma,kali,nodejs,vscode,linux,bash,aws,googlecloud&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,react,git,github,figma,kali,nodejs,vscode,linux,bash,aws,googlecloud&perline=7"  />
 </p>
 <br />
 
@@ -90,12 +88,7 @@
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Programming Quote" />
 </p>
-
-[![@isay's Holopin board](https://holopin.me/xcriminal1)](https://holopin.io/@xcriminal1)
-
 <br />
-
-
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
