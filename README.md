@@ -5,7 +5,7 @@
 <h1>
   I'm Sudipa! 🌸✨
 </h1>
-A 3rd year Computer Science Student from India. I am pursuing B.Tech. in CSE(AIML) at UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA.
+A Computer Science Student, pursuing B.Tech. in CSE(AIML) at UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA.
 <br /> 
 
 
